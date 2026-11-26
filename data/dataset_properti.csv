@@ -1,0 +1,21 @@
+luas_tanah_are,luas_bangunan_m2,kamar_tidur,kamar_mandi,lebar_jalan_m,jarak_pusat_km,lokasi,harga_per_are_juta
+5.0,180,3,2,6.0,4.2,Canggu,1850
+3.5,120,2,2,4.5,6.8,Dalung,920
+8.0,250,4,3,8.0,3.1,Seminyak,2400
+4.2,150,3,2,5.0,5.5,Kerobokan,1450
+6.5,210,3,3,6.5,4.8,Pererenan,1720
+2.8,95,2,1,4.0,7.5,Mengwi,780
+7.0,230,4,3,7.0,3.8,Umalas,2150
+4.5,160,3,2,5.5,6.0,Denpasar Barat,1100
+9.0,300,4,4,8.0,2.5,Kuta,2300
+3.0,110,2,2,4.5,8.2,Tabanan,650
+5.5,190,3,2,6.0,5.0,Dalung,1050
+6.0,200,3,3,6.5,4.0,Canggu,1920
+4.0,140,2,2,5.0,6.2,Kerobokan,1380
+7.5,260,4,3,7.5,3.5,Seminyak,2500
+3.8,130,2,2,4.5,7.0,Mengwi,850
+5.2,175,3,2,6.0,4.6,Pererenan,1650
+8.5,280,4,4,8.0,2.9,Umalas,2250
+2.5,85,2,1,4.0,8.5,Tabanan,600
+4.8,165,3,2,5.5,5.8,Denpasar Barat,1180
+6.8,220,3,3,7.0,4.1,Canggu,1980
