@@ -16,6 +16,3 @@ Saya menggunakan **Gemini**. Alasannya, Gemini sudah terintegrasi pada IDE Googl
 Penggunaannya sebatas untuk membantu menyusun kode program sesuai kebutuhan, merapikan dokumentasi, serta berdiskusi mengenai alasan dan tujuan dari setiap tahapan CRISP-DM yang dilakukan.
 
 Hasilnya cukup membantu dan membuat proses pengerjaan menjadi lebih terstruktur serta efisien.
-```[cite: 8, 19, 20]
-
-Begitu di-commit, tampilan di bawah daftar file akan langsung rapi menyerupai milik temanmu[cite: 19, 20]. Kalau ada bagian kalimat di pernyataan AI yang mau kamu ubah sesuai gaya bahasamu sendiri, tinggal sesuaikan saja sebelum disimpan.
