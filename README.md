@@ -7,7 +7,7 @@
 * **NIM:** 2301010460
 * **Nama:** I Made Yudik Pramana
 * **Program Studi:** Informatika
-* **Kelas:** Machine Learning - [Isi Kelas Kamu]
+* **Kelas:** Machine Learning - [XX]
 
 ## Pernyataan Penggunaan AI
 
